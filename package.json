@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^12.13.0",
+    "typo-js": "^1.2.3"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.4"
   }
 }
