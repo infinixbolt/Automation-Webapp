@@ -27,3 +27,4 @@
 require('@4tw/cypress-drag-drop')
 import "cypress-real-events";
 import 'cypress-iframe';
+import 'chai-string';
